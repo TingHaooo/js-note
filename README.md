@@ -22,6 +22,7 @@ This repository records basic of javascript and some useful links.
 - Hoisting
 - Closure
 - Curring
+- Functional Programming
 
 <details>
 <summary>Reference</summary>
